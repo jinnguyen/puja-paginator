@@ -1,0 +1,21 @@
+{
+  "name": "jinnguyen/puja-paginator",
+  "description": "Puja-Paginator is a flexible component for paginating collections of data and presenting that data to users.",
+  "type": "library",
+  "license": "Apache License 2.0",
+  "keywords": ["Puja", "Paginator"],
+  "authors": [
+    {
+      "name": "Jin Nguyen",
+      "email": "w2ajax@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+  },
+  "autoload": {
+      "psr-4": {
+        "Puja\\Paginator\\": "src/"
+      }
+  }
+}
